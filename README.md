@@ -1,7 +1,8 @@
 ### Hi👋 My name is Herman
 
-# 💫 About Me:
-I'm currently a Backend Software Engineer working with Java & Spring Framework in Milan, Italy
+# Backend Software Engineer:
+I'm currently a Backend Software Engineer working with Java & Spring Framework in Perigea, a financial consulting company.
+🌍  I'm based in Milan
 
 
 ## 🌐 Socials:
